@@ -1,6 +1,3 @@
-# JAVA_XiaoHuiJianShen
-A coursework, learned from Xiaozhi Medical at Station B, and modified as a fitness assistant on this basis.
-
 一、项目概述
     JavaAI 是基于 Spring Boot 3.2.6 开发的人工智能应用，整合 LangChain4j、MyBatis-Plus、Knife4j 等技术，支持 OpenAI、通义千问等多模态大
 语言模型，具备文档解析、向量存储、智能问答等功能，可快速搭建 AI 相关服务。
